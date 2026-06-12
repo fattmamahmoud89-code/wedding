@@ -202,7 +202,7 @@ export default function WeddingInvitation() {
               <p className="text-gray-500 italic leading-relaxed mb-10 text-sm">
                 Police Union Club - Salah Salem
                 <br />
-                Behind Police Mosque - Gate 1
+                Behind Police Mosque - Gate 7
               </p>
               <div className="grid grid-cols-2 gap-6">
                 <div className="bg-white p-6 rounded-2xl shadow-sm border border-[#EAE3D2]">
